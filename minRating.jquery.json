@@ -1,0 +1,35 @@
+{
+    "name": "minRating",
+    "title": "jQuery minRating",
+    "description": "上课练习",
+    "keywords": [
+        "Rating",
+        "plus",
+        "element"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "1085112433",
+        "url": "https://github.com/1085112433"
+    },
+    "maintainers": [
+        {
+            "name": "minRating",
+            "email": "1085112433@qq.com",
+            "url": ""
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/1085112433/minRating",
+    "homepage": "https://github.com/1085112433/minRating",
+    "docs": "https://github.com/1085112433/minRating",
+    "download": "https://codeload.github.com/1085112433/minRating/zip/master",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
